@@ -1,0 +1,31 @@
+{
+  "nama": "Risma Paramesti",
+  "npm": "123456789",
+  "jurusan": "Sistem Informasi",
+  "mata_kuliah": [
+    {
+      "kode": "SI101",
+      "nama": "Pemrograman Mobile",
+      "sks": 3,
+      "nilai": "A"
+    },
+    {
+      "kode": "SI102",
+      "nama": "Basis Data",
+      "sks": 3,
+      "nilai": "A-"
+    },
+    {
+      "kode": "SI103",
+      "nama": "Pemrograman Web",
+      "sks": 3,
+      "nilai": "A-"
+    },
+    {
+      "kode": "SI104",
+      "nama": "Rekayasa Perangkat Lunak",
+      "sks": 3,
+      "nilai": "B+"
+    }
+  ]
+}
